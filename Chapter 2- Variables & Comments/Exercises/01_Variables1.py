@@ -1,7 +1,7 @@
 # Chapter 2, Exercise 1: Variables 1
 
-Tyler = "The first rule of Fight Club is:"
-print(Tyler)
+tyler = "The first rule of Fight Club is:"
+print(tyler)
 
-Tyler = "You do not talk about Fight Club."
-print(Tyler)
+tyler = "You do not talk about Fight Club."
+print(tyler)

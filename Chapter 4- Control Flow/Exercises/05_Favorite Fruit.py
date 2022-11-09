@@ -1,7 +1,8 @@
 # Chapter 4, Exercise 5: Favorite Fruit
 
-favorite_fruits = ["Avocado", "Cherry", "Mango", "Persimmon", "Pitaya"]
+favorite_fruits = ["Avocado", "Cherry", "Mango", "Persimmon", "Pitaya"] # List of my favorite fruits
 
+# If statements with independent messages each
 if "Avocado" in favorite_fruits:
     print("You really like Avocados, huh?")
 
@@ -16,3 +17,4 @@ if "Persimmon" in favorite_fruits:
     
 if "Pitaya" in favorite_fruits:
     print("Pitaya is also called dragon fruit.")
+

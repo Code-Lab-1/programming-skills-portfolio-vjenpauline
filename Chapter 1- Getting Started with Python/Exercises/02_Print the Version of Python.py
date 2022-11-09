@@ -2,4 +2,4 @@
 
 import sys
 
-print("The version of Python I am using is", sys.version) # To know the Python version used
+print(f"The version of Python I am using is {sys.version}.") # To know the Python version used

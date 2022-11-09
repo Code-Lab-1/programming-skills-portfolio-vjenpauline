@@ -4,4 +4,4 @@ from datetime import datetime
 
 current = datetime.now()
 
-print("Date and time now:", current) # To know current date and time
+print(f"Date and time now: {current}.") # To know current date and time

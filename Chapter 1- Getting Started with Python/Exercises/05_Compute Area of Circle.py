@@ -2,7 +2,7 @@
 
 import math
 
-radius = float(input("What is the radius of the circle?:")) # Asks user for radius to compute area of circle
+radius = float(input("What is the radius of the circle?: ")) # Asks user for radius to compute area of circle
 area_circle = math.pi*(radius**2)
 
-print("The area of the circle is", area_circle)
+print(f"The area of the circle is {area_circle}.")
