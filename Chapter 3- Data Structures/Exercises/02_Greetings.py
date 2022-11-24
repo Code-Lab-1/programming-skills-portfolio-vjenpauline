@@ -1,9 +1,10 @@
-# CHapter 3, Exercise 2: Greetings
+# Chapter 3, Exercise 2: Greetings
 
 names = ["Alana", "Athena", "Drew", "Hanz", "Karla", "Siobe", "Yssabelle"]
 
 message = "\nHurry! Your oven is on fire, "
 
+# Prints a message for each friend
 print(message + names[0] + "!")
 print(message + names[1] + "!")
 print(message + names[2] + "!")

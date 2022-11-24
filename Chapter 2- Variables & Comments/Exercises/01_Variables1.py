@@ -5,3 +5,5 @@ print(tyler)
 
 tyler = "You do not talk about Fight Club."
 print(tyler)
+
+# Printing assigned variables of quotes

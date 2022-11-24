@@ -2,6 +2,7 @@
 
 names = ["Alana", "Athena", "Drew", "Hanz", "Karla", "Siobe", "Yssabelle"]
 
+# Prints each name from the list of names 
 print(names)
 print(names[0])
 print(names[1])

@@ -2,6 +2,6 @@
 
 seven = 7
 
-while True:
+while True: # Prints seven infinitely
     print(seven)
     seven += 7

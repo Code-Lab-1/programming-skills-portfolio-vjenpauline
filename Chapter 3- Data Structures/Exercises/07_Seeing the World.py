@@ -1,12 +1,13 @@
-# CHapter 3, Exercise 7: Seeing the World
+# Chapter 3, Exercise 7: Seeing the World
 
 places = ["Budapest", "Cappadocia", "Amsterdam", "Crete", "Venice", "Salzburg", "Switzerland", "Barcelona"]
 
+# Each changes the order of the list
 print("Original list:")
 print(places) # Initial arrangement
 
 print("\nAlphabetically sorted list:")
-print(sorted(places))
+print(sorted(places)) 
 
 print("\nOriginal list:")
 print(places)
