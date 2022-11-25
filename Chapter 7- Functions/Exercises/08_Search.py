@@ -6,8 +6,8 @@ def search(x,y): # Searches if word(y) is in text(x)
     else:
         return x
 
-text = input()
-word = input()
+text = input("Give a statement: ")
+word = input("Give a word: ")
 
 if (search(text, word) == word):
     print("Word found")
