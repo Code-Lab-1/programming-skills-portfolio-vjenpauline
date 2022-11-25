@@ -3,8 +3,8 @@
 # Asks user for temperature of water and determines its temperature point
 temp = int(input("What's the temperature?: "))
 if temp >= 100:
-    print(f"The temperature is the boiling point.")
+    print(f"The temperature is boiling.")
 elif temp == 0:
-    print(f"The temperature is the freezing point.")
+    print(f"The temperature is freezing.")
 else:
     print("Other")
